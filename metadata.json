@@ -1,0 +1,6 @@
+{
+  "name": "Nosa Cultura - Eventos Culturais en Vigo",
+  "description": "Guía e buscador intelixente de eventos culturais en Vigo: actuais, próximos e permanentes con mapa interactivo e filtros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
